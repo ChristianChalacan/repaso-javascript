@@ -1,0 +1,2 @@
+Para crear un formato HTML en visual estudio se usa el simbolo de exclamacion (!),
+despues de esto en IDE nos dara dos opciones y tenemos que elegir la primera
