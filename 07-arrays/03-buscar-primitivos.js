@@ -11,5 +11,5 @@ console.log(letras.indexOf(1));
 // Si se quiere leer el array al reves (empezando desde el ultimo elemento y terminando en el primero)
 // podemos usar el metodo lastIndexOf()
 console.log(letras.lastIndexOf(1));
-// Si solo se quiere saber si existe el elemento, sin buscar la posicion podemos usar el metodo includes()
+// Si solo se quiere saber si existe el elemento, sin buscar la posicion podemos usar el metodo includes();
 console.log(letras.includes(1));
